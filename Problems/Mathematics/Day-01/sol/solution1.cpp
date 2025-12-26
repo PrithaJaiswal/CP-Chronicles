@@ -14,6 +14,8 @@ Approach :
 Time Complexity: O(1) per test case
 Space Complexity: O(1)
 
+https://github.com/Tabassumasra05/CP-Chronicles/blob/main/Problems/Mathematics/Day-01/sol/solution1.cpp
+
 */
 
 
