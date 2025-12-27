@@ -15,7 +15,6 @@
 | Omdeep                 | omicoded19              | IIIT Allahabad                                                   |
 | Beesa Manish           | MANISH-BEESA            | MLRIT                                                            |
 | Himansh Arora          | Humanshere              | IIIT Allahabad                                                   |
-| Kushagra Raghuvanshi   | Taskmaster-afk          | IIIT Allahabad                                                   |
 | Kamakshi Gupta         | 29kamakshigupta         | IIIT Allahabad                                                   |
 | Pranshu Sethi          | iampranshusethi         | IIIT Allahabad                                                   |
 | Abhay Pratap Singh     | d2-e2-v2                | IIIT Allahabad                                                   |
